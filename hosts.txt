@@ -1,0 +1,3 @@
+cat cat dog cat hen hen
+dog monkey horse cat
+cat hen dog
